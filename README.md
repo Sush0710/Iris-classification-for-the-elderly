@@ -1,1 +1,3 @@
 # Iris-classification-for-the-elderly
+
+This repository showcases our minor project focused on iris classification for the elderly, utilizing both Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN). The primary objective was to depart from the traditional CNN image classification approach and instead develop a novel algorithm to enhance accuracy and sensitivity. The outcomes of this project effectively fulfilled these goals through the implementation of this distinctive model. The dataset used in this project, obtained from Kaggle, comprised 200 iris images from 5 distinct individuals. The code we've developed is not limited to this dataset and can be adapted for use with other datasets as well.
